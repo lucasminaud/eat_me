@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\eat_me\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|c:\\users\\lucas\\documents\\eat_me\\eat_me\\public\\client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|solutionrelative:eat_me\\public\\client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|c:\\users\\lucas\\documents\\eat_me\\eat_me\\public\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|solutionrelative:eat_me\\public\\game.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|c:\\users\\lucas\\documents\\eat_me\\eat_me\\public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|solutionrelative:eat_me\\public\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|c:\\users\\lucas\\documents\\eat_me\\eat_me\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9246C6D-F87B-39B1-5240-B1750EA9BC53}|eat_me\\eat_me.esproj|solutionrelative:eat_me\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.js",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\client.js",
+              "RelativeDocumentMoniker": "eat_me\\public\\client.js",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\client.js",
+              "RelativeToolTip": "eat_me\\public\\client.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-10T21:29:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.html",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\game.html",
+              "RelativeDocumentMoniker": "eat_me\\public\\game.html",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\game.html",
+              "RelativeToolTip": "eat_me\\public\\game.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T21:29:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\style.css",
+              "RelativeDocumentMoniker": "eat_me\\public\\style.css",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\style.css",
+              "RelativeToolTip": "eat_me\\public\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-10T21:29:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\index.html",
+              "RelativeDocumentMoniker": "eat_me\\public\\index.html",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\eat_me\\eat_me\\public\\index.html",
+              "RelativeToolTip": "eat_me\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T21:29:04.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
